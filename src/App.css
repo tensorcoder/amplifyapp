@@ -10,8 +10,7 @@
 
 .App-header {
   background-color: #48da05;
-  background-blend-mode: hard-light;
-  min-height: 100vh;
+  min-height: 20vh;
   display: flex;
   flex-direction: column;
   align-items: center;
