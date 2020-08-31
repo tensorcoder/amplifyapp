@@ -10,7 +10,8 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           
           <p>
-            Serpentibus Technologies Limited
+            <a href="https://beta.companieshouse.gov.uk/company/SC669138">Serpentibus Technologies Limited
+            </a>
           </p>
 
         </header>
