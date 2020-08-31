@@ -24,32 +24,6 @@
   text-decoration: none;
 }
 
-.nav {
-  text-align: center;
-}
-
-.cento-header .nav-wrap {
-  overflow: hidden;
-  width: 100%;
-  padding: 10px 0;
-  background: #ffffff;
-  box-sizing: border-box;
-  backface-visibility: hidden;
-  -webkit-backface-visibility: hidden;
-}
-
-.nav ul {
-  display: inline-block;
-  vertical-align: top;
-  list-style-type: none;
-}
-
-.container {
-  overflow: hidden;
-  width: 100%;
-  max-width: 960px;
-  margin: 0 auto;
-}
 
 @keyframes App-logo-spin {
   from {
