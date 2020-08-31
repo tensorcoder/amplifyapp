@@ -10,7 +10,7 @@ class App extends Component {
           <ul className="wsite-menu-default">
             <li id="active" class="wsite-menu-item-wrap">
               <a href="#" className="wsite-menu-item-wrap wsite-nav-1" style="position:relative;">
-                
+                Menu Item 1
               </a>
             </li>
           </ul>
